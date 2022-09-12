@@ -4,7 +4,7 @@ import co.edu.unisabana.usuario.presentacion.dto.BookDto;
 import co.edu.unisabana.usuario.presentacion.dto.BookReponse;
 import co.edu.unisabana.usuario.persistencia.dao.BookDao;
 import co.edu.unisabana.usuario.persistencia.dao.entity.BookEntity;
-import co.edu.unisabana.usuario.service.library.RegisterBookLibrary;
+import co.edu.unisabana.usuario.negocio.service.library.RegisterBookLibrary;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

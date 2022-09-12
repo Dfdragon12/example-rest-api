@@ -1,7 +1,7 @@
 package co.edu.unisabana.usuario.negocio.logica;
 import java.util.List;
 
-import co.edu.unisabana.usuario.service.library.model.Book;
+import co.edu.unisabana.usuario.negocio.service.library.model.Book;
 
 public class LibroServicio {
 

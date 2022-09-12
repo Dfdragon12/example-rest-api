@@ -1,7 +1,7 @@
 package co.edu.unisabana.usuario.persistencia.dao;
 
-import co.edu.unisabana.usuario.service.model.User;
-import co.edu.unisabana.usuario.service.user.port.RegisterUserPort;
+import co.edu.unisabana.usuario.negocio.service.model.User;
+import co.edu.unisabana.usuario.negocio.service.user.port.RegisterUserPort;
 import org.springframework.stereotype.Repository;
 
 @Repository

@@ -1,4 +1,4 @@
-package co.edu.unisabana.usuario.service.model;
+package co.edu.unisabana.usuario.negocio.service.model;
 
 import lombok.Data;
 

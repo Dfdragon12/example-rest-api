@@ -1,4 +1,4 @@
-package co.edu.unisabana.usuario.service.library.model;
+package co.edu.unisabana.usuario.negocio.service.library.model;
 
 public enum CategoryBook {
 

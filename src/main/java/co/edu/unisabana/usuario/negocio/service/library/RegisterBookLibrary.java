@@ -1,9 +1,9 @@
-package co.edu.unisabana.usuario.service.library;
+package co.edu.unisabana.usuario.negocio.service.library;
 
-import co.edu.unisabana.usuario.service.library.model.Book;
-import co.edu.unisabana.usuario.service.library.port.AddBookPort;
-import co.edu.unisabana.usuario.service.library.port.RegisterBookPort;
-import co.edu.unisabana.usuario.service.library.port.SearchBookPort;
+import co.edu.unisabana.usuario.negocio.service.library.model.Book;
+import co.edu.unisabana.usuario.negocio.service.library.port.AddBookPort;
+import co.edu.unisabana.usuario.negocio.service.library.port.RegisterBookPort;
+import co.edu.unisabana.usuario.negocio.service.library.port.SearchBookPort;
 import org.springframework.stereotype.Service;
 
 @Service
