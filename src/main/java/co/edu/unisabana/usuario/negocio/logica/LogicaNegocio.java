@@ -1,6 +1,5 @@
-package co.edu.unisabana.usuario.logica;
+package co.edu.unisabana.usuario.negocio.logica;
 
-import co.edu.unisabana.usuario.dto.BookDto;
 import co.edu.unisabana.usuario.service.library.model.Book;
 import co.edu.unisabana.usuario.service.library.model.CategoryBook;
 

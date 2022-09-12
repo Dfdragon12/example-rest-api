@@ -1,6 +1,6 @@
-package co.edu.unisabana.usuario.repository.dao;
+package co.edu.unisabana.usuario.persistencia.dao;
 
-import co.edu.unisabana.usuario.repository.dao.entity.BookEntity;
+import co.edu.unisabana.usuario.persistencia.dao.entity.BookEntity;
 import co.edu.unisabana.usuario.service.library.model.Book;
 import co.edu.unisabana.usuario.service.library.port.AddBookPort;
 import co.edu.unisabana.usuario.service.library.port.RegisterBookPort;

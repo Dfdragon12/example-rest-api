@@ -1,4 +1,4 @@
-package co.edu.unisabana.usuario.dto;
+package co.edu.unisabana.usuario.presentacion.dto;
 
 import co.edu.unisabana.usuario.service.library.model.Book;
 import co.edu.unisabana.usuario.service.library.model.CategoryBook;

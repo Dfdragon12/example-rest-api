@@ -1,7 +1,6 @@
 package co.edu.unisabana.usuario.service.library.port;
 
-import co.edu.unisabana.usuario.repository.dao.BookDao;
-import co.edu.unisabana.usuario.repository.dao.entity.BookEntity;
+import co.edu.unisabana.usuario.persistencia.dao.entity.BookEntity;
 
 import java.util.List;
 

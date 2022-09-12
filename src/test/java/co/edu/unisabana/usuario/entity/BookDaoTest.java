@@ -1,7 +1,7 @@
 package co.edu.unisabana.usuario.entity;
 
-import co.edu.unisabana.usuario.repository.dao.BookDao;
-import co.edu.unisabana.usuario.repository.dao.entity.BookEntity;
+import co.edu.unisabana.usuario.persistencia.dao.BookDao;
+import co.edu.unisabana.usuario.persistencia.dao.entity.BookEntity;
 import co.edu.unisabana.usuario.service.library.model.Book;
 import co.edu.unisabana.usuario.service.library.model.CategoryBook;
 import org.junit.jupiter.api.Test;

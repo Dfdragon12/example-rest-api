@@ -1,5 +1,4 @@
-package co.edu.unisabana.usuario.logica;
-import java.util.ArrayList;
+package co.edu.unisabana.usuario.negocio.logica;
 import java.util.List;
 
 import co.edu.unisabana.usuario.service.library.model.Book;

@@ -1,4 +1,4 @@
-package co.edu.unisabana.usuario.repository.dao.entity;
+package co.edu.unisabana.usuario.persistencia.dao.entity;
 
 import co.edu.unisabana.usuario.service.library.model.Book;
 import lombok.AllArgsConstructor;

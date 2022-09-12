@@ -1,15 +1,12 @@
-package co.edu.unisabana.usuario.controller;
+package co.edu.unisabana.usuario.presentacion.controller;
 
-import co.edu.unisabana.usuario.dto.BookDto;
-import co.edu.unisabana.usuario.dto.BookReponse;
-import co.edu.unisabana.usuario.dto.UserDTO;
-import co.edu.unisabana.usuario.dto.UserDTOResponse;
-import co.edu.unisabana.usuario.repository.dao.BookDao;
-import co.edu.unisabana.usuario.repository.dao.entity.BookEntity;
+import co.edu.unisabana.usuario.presentacion.dto.BookDto;
+import co.edu.unisabana.usuario.presentacion.dto.BookReponse;
+import co.edu.unisabana.usuario.persistencia.dao.BookDao;
+import co.edu.unisabana.usuario.persistencia.dao.entity.BookEntity;
 import co.edu.unisabana.usuario.service.library.RegisterBookLibrary;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController
