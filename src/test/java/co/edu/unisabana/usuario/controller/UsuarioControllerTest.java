@@ -24,7 +24,7 @@ public class UsuarioControllerTest extends AbstractTest {
    * When: Que voy hacer/probar
    * Then: Cual debería ser el resultado
    */
-  @Test
+  /*@Test
   public void Given_BasicTest_When_callData_Then_successful() {
     ResponseEntity<UserDTO> result = restTemplate.getForEntity(PATH_DATA, UserDTO.class);
     assertEquals(1, result.getBody().getAge());
@@ -51,5 +51,5 @@ public class UsuarioControllerTest extends AbstractTest {
     assertEquals(3, result.getBody().getData().size());
     assertTrue(result.getBody().getData().size() == 3);
     //assertFalse(result.getBody().getData().isEmpty());
-  }
+  }*/
 }
